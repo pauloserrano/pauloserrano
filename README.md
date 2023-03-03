@@ -8,9 +8,9 @@
 &nbsp;&nbsp; :mage: I'm a 24-year-old Web Developer from Brazil \
 &nbsp;&nbsp; :peacock: Currently working on a new personal project (more on that in the future) \
 &nbsp;&nbsp; :dog2: I'm a dog person! But I never had a cat, so who knows really? \
-&nbsp;&nbsp; :speech_balloon: I've been getting into learning guitar again after a few years pause \
+&nbsp;&nbsp; :speech_balloon: I've been getting into learning guitar again after a few years of pause \
 &nbsp;&nbsp; :cherry_blossom: I love learning new languages, and am currently studying japanese :jp: \
-&nbsp;&nbsp; :speech_balloon: Feel free to reach me anytime!
+&nbsp;&nbsp; :speech_balloon: Feel free to reach out to me anytime!
 
 <p align="center">
   <a href="mailto:pvsserrano@gmail.com">
